@@ -1,0 +1,5 @@
+<?php
+// ============================================================================
+// SICHERHEIT: Alle Änderungen sind ab jetzt nur noch im Original-Ordner.
+// Dieser Ordner enthält BACKUPS der Dateien VOR den Sicherheits-Updates.
+// ============================================================================
